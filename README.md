@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Kevin Desbessell 😁
+## Welcome to Kevin Desbessell´s profile 😁
 
  <div>
    <a href="https://github.com/kevin-desbessell">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Minhas redes sociais atuais!
+  ### My social media!
  
 <div> 
   <a href="https://instagram.com/kevin_desbessell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
